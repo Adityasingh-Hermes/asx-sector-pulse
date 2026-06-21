@@ -29,7 +29,7 @@ I wanted to understand how different sectors of the ASX actually perform against
 
 ## Dashboard
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 The dashboard uses a linked slicer, clicking any ticker filters the Daily Price Trend, Monthly Return %, and Volatility charts at the same time.
 
